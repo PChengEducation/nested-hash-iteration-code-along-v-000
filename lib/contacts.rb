@@ -20,5 +20,5 @@ contacts.each do |person, contact_details_hash|
   end
 end
 contacts
-#binding.pry
+binding.pry
 end
